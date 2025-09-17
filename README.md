@@ -51,32 +51,5 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to view the dashboard.
 
-### 4. Deploy to Vercel
 
-- Push your repo to GitHub
-- Connect to [Vercel](https://vercel.com/import)
-- Set up project (no env vars needed by default)
-- Deploy and share the public link
 
-## Findings Summary
-
-*To be filled by students after analysis.*
-
-## Submission Checklist
-
-- [ ] Dataset generated and committed (`data/students.csv`)
-- [ ] Notebook runs end-to-end and exports PNGs/models
-- [ ] Dashboard displays all required charts, table, and insights
-- [ ] Model artifacts saved in `models/`
-- [ ] Clusters/personas visible in dashboard
-- [ ] README and SUBMISSION.md completed
-- [ ] Deployed to Vercel and public URL provided
-
-## Deadline
-
-**Submission deadline:** `YYYY-MM-DDTHH:MM:SS+05:30` (update as instructed)
-
----
-
-For detailed submission and branch/PR instructions, see `SUBMISSION.md`.
-"# Student-Data-Analyzer" 
